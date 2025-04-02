@@ -1,17 +1,3 @@
-NOT Hb AND NOT Notch_1 => donor_is_old
-NOT IL_4 AND NOT Lymphocytes => donor_is_old
-NOT Hb AND NOT Lymphocytes_percent => donor_is_old
 NOT Hb AND NOT Lymphocytes AND NOT Notch_1 => donor_is_old
-NOT Basophils_percent AND NOT Notch_1 => donor_is_old
-NOT Lymphocytes AND NOT sCD86 => donor_is_old
-NOT Lymphocytes AND NOT Notch_1 => donor_is_old
-NOT Notch_1 AND NOT RBC => donor_is_old
-NOT HCT AND NOT Notch_1 => donor_is_old
-NOT Hb AND NOT IFN_γ => donor_is_old
 NOT Lymphocytes_percent AND NOT Notch_1 => donor_is_old
-NOT Hb AND NOT IL_2 => donor_is_old
-NOT HCT AND NOT Lymphocytes AND NOT Notch_1 => donor_is_old
 NOT Hb AND NOT Lymphocytes => donor_is_old
-NOT Hb AND NOT IL_12p70 => donor_is_old
-NOT Hb AND NOT IL_10 => donor_is_old
-NOT Basophils_percent AND NOT Lymphocytes AND NOT Notch_1 => donor_is_old
